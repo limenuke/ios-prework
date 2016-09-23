@@ -27,7 +27,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/Nv9sLwe.gif' title='Crunch Tip Walkthrough' width='' alt='Bill display and settings control' />
+<img src='http://i.imgur.com/7RRvQhd.gif' title='Crunch Tip Walkthrough' width='' alt='Bill display and settings control' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 

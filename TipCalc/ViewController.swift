@@ -60,7 +60,6 @@ class ViewController: UIViewController {
             tipArray[2] = 25
             print(String("2 default value"))
         }
-        print("view will appear")
         
         tipPct.setTitle(String(format:"%d%%", tipArray[0]), forSegmentAtIndex:0)
         tipPct.setTitle(String(format:"%d%%", tipArray[1]), forSegmentAtIndex:1)
@@ -68,6 +67,7 @@ class ViewController: UIViewController {
         print(String(format:"Set titles as %d %d %d", tipArray[0], tipArray[1], tipArray[2] ))
         
         billAmt.becomeFirstResponder()
+        self.onEdit(billAmt)
     }
     
     override func viewDidAppear(animated: Bool) {
