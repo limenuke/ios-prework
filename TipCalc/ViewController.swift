@@ -66,6 +66,8 @@ class ViewController: UIViewController {
         tipPct.setTitle(String(format:"%d%%", tipArray[1]), forSegmentAtIndex:1)
         tipPct.setTitle(String(format:"%d%%", tipArray[2]), forSegmentAtIndex:2)
         print(String(format:"Set titles as %d %d %d", tipArray[0], tipArray[1], tipArray[2] ))
+        
+        billAmt.becomeFirstResponder()
     }
     
     override func viewDidAppear(animated: Bool) {

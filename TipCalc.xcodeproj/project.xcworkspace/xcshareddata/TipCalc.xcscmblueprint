@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "16A46E65E2B8145980AA408605B66BB45FB993F8",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "16A46E65E2B8145980AA408605B66BB45FB993F8" : 0,
+    "FA05AFC5D771EC8FEB9C00D7ED661474816AF881" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "931D014B-D9AE-4D1E-B0DB-3F899873FB35",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "16A46E65E2B8145980AA408605B66BB45FB993F8" : "TipCalc\/",
+    "FA05AFC5D771EC8FEB9C00D7ED661474816AF881" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "TipCalc",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "TipCalc.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/limenuke\/ios-prework.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "16A46E65E2B8145980AA408605B66BB45FB993F8"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/limenuke\/PChalCpp.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "FA05AFC5D771EC8FEB9C00D7ED661474816AF881"
+    }
+  ]
+}
